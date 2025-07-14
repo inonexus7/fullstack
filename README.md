@@ -39,7 +39,7 @@ We will evaluate your submission on:
     * Automated front-end tests covering few happy-path scenarios
     * Total implementation time should not exceed 8 hours (feel free to spread this across multiple days)
 
-> **Note:** As this role is front-end focused, the quality and completeness of your React/TypeScript code will carry greater weight.
+> **Note:** The quality and completeness of your React/TypeScript code will carry greater weight.
 
 # Task Description
 
